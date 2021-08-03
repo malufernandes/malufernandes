@@ -16,5 +16,5 @@ I intend to start studies at:
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=malufernandes&theme=blue-green)
 
-# Bye !!
- <img src="https://tenor.com/view/mandalorian-baby-yoda-star-wars-cute-hello-gif-19912277.gif" width=100px>
+# Bye !!  <img src="https://tenor.com/view/mandalorian-baby-yoda-star-wars-cute-hello-gif-19912277.gif" width=40px>
+
